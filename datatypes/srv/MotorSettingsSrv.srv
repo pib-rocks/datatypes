@@ -12,3 +12,4 @@ bool active
 ---
 bool settings_applied
 bool settings_persisted
+Error error

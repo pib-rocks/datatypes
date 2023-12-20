@@ -1,0 +1,2 @@
+string typ
+string message
